@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajatkaliani
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning api requests
+- 👀 I’m interested in AI development and bioinformatics breakthroughs
+- 🌱 I’m currently learning predictive ML algorithms
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me kaliani.rajat@gmail.com
 
