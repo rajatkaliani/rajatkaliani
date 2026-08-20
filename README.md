@@ -9,7 +9,7 @@ infra, ML pipelines, and systems where correctness and uptime actually matter.
 - 🔭 Currently **SWE @ GoodRx** (technical SEO at scale) & **researching** deep
   learning on circadian omics at UCI's AI in Science Institute
 - 🧠 Into applied AI systems, distributed systems, search/IR, and going deeper on Rust
-- 🌐 Portfolio: **rajatkaliani.com**
+- 🌐 Portfolio: **rajatkaliani.vercel.app**
 - 📫 rkaliani@uci.edu
 
 ## What I've been building
