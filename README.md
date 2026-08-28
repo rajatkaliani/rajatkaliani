@@ -1,8 +1,8 @@
 # Hi, I'm Rajat 👋
 
-CS @ **UC Irvine** (B.S., GPA 3.73) building at the intersection of **AI/ML** and
-**software engineering** — from RAG systems and agent tooling to distributed
-backends and geospatial ML. I like the unglamorous, load-bearing parts: search
+CS @ **UC Irvine**  building at the intersection of **AI/ML** and
+**software engineering**, from RAG systems and agent tooling to distributed
+backends and geospatial ML. I enjoy getting really deep into the data behind it: search
 infra, ML pipelines, and systems where correctness and uptime actually matter.
 
 - 🚀 Incoming **SDE Intern @ AWS** (Elastic Block Store) — Fall 2026
