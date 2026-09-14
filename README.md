@@ -5,9 +5,10 @@ CS @ **UC Irvine**  building at the intersection of **AI/ML** and
 backends and geospatial ML. I enjoy getting really deep into the data behind it: search
 infra, ML pipelines, and systems where correctness and uptime actually matter.
 
-- 🚀 Incoming **SDE Intern @ AWS** (Elastic Block Store) — Fall 2026
-- 🔭 Currently **SWE @ GoodRx** (technical SEO at scale) & **researching** deep
+- 🚀 Current **SDE Intern @ AWS** (Elastic Block Store) — Fall 2026
+- 🔭 Prev **SWE @ GoodRx** (technical SEO at scale) & **researching** deep
   learning on circadian omics at UCI's AI in Science Institute
+- Prev **SWE @ KBR/NASA** cloud infrastructure and predictive modeling for geospatial GOES-R series satellites
 - 🧠 Into applied AI systems, distributed systems, search/IR, and going deeper on Rust
 - 🌐 Portfolio: **rajatkaliani.vercel.app**
 - 📫 rkaliani@uci.edu
