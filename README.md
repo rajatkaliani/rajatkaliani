@@ -16,7 +16,7 @@ infra, ML pipelines, and systems where correctness and uptime actually matter.
 ## What I've been building
 
 **Experience**
-- **AWS** — Elastic Block Store (incoming): distributed block storage at planetary scale
+- **AWS** — Elastic Block Store (current): distributed block storage at planetary scale
 - **GoodRx** — technical SEO across programmatic pages; GraphQL/service layer, Datadog
 - **KBR / NASA (TOWR-S)** — geospatial ML over satellite data; EC2 + Kubernetes pipelines
 - **Cadomi.ai** — built the full **MCP layer** for LLM agent orchestration (Django + React)
